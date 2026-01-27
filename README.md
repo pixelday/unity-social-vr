@@ -5,7 +5,7 @@ Open-source experimental social VR library for Unity
 
 This repo is the future home of code that can be downloaded and run locally on a Windows PC Unity dev environment. 
 
-Proof of Concept (POC)
+Proof of Concept (POC) high-level requirements
 - [ ] PCVR support
 - [ ] Flat-screen support for desktop PC
 - [ ] Able to experience custom 3D scene data as Unity levels (e.g. FBX import)
