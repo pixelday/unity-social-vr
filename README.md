@@ -17,7 +17,7 @@ Proof of Concept (POC) high-level requirements
     - [ ] Everyone can clearly hear each user's microphone audio signal accurately placed in the 3D space (e.g. if an avatar moves away from you while they are talking then their voice should get quieter) 
 - [ ] Each user spawns in their own "home level" that they can invite other users to
     - [ ] Users can choose from a default home level or a custom level they've added locally by adding the right files to their Unity project.
-    - [ ] If a user selects a custom home level pointing to files they have added locally then any user they invite to their should be able to have access to that data via P2P
+    - [ ] If a user selects a custom level pointing to files they have added locally then any user they invite to join them there should be able to have access to that data via P2P
 - [ ] Users can freely teleport between levels they are invited to
 - [ ] Data privacy and security
     - [ ] End-to-end encryption
