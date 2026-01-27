@@ -19,3 +19,9 @@ Proof of Concept (POC) high-level requirements
     - [ ] Users can choose from a default home level or a custom level they've added locally by adding the right files to their Unity project.
     - [ ] If a user selects a custom home level pointing to files they have added locally then any user they invite to their should be able to have access to that data via P2P
 - [ ] Users can freely teleport between levels they are invited to
+- [ ] Data privacy
+    - [ ] End-to-end encryption
+    - [ ] Authentication
+    - [ ] Access control
+    - [ ] Audit controls
+    - [ ] Integrity
