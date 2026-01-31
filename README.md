@@ -1,5 +1,5 @@
 # unity-social-vr
-An experimental social VR library for Unity, released under the MIT License.
+An experimental social VR library for Unity, released as-is under the MIT License.
 
 ## Hardware and software requirements
 - Windows PC
