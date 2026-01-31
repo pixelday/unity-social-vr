@@ -19,7 +19,9 @@ An experimental social VR library for Unity, released under the MIT License.
 
 ---
 
-### System Architectural Proof of Concept (POC) high-level requirements
+## System Architectural Proof of Concept (POC) high-level requirements
+
+*TODO: Migrate this list to issues and/or a more detailed requirements doc*
 
 - [ ] PCVR support
 - [ ] Flat-screen support for desktop PC
