@@ -1,11 +1,25 @@
 # unity-social-vr
-Open-source experimental social VR library for Unity
+An experimental social VR library for Unity.
+
+## Hardware and software requirements
+- Windows PC
+- X86 CPU
+- Dedicated GPU (equivalent of Nvidia 3080 or above)
+- Unity dev environment
+- Computer Monitor (e.g. LG 27" panel or above) for testing flat screen experiences
+- PCVR-capable HMD (e.g. Steam Frame) for testing VR experiences
+- Microphone for testing user avatar voice in 3D spatial audio
+- Speakers or headphones to hear other users' voices
 
 ---
 
-This repo is the future home of code that can be downloaded and run locally on a Windows PC Unity dev environment. Consider this document a draft.
+## Running locally
 
-Proof of Concept (POC) high-level requirements
+*TODO: add steps when code is added*
+
+---
+
+### System Architectural Proof of Concept (POC) high-level requirements
 
 - [ ] PCVR support
 - [ ] Flat-screen support for desktop PC
