@@ -1,0 +1,115 @@
+############################
+# Unity
+############################
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Unity generated
+[Aa]ssets/AssetStoreTools*
+[Aa]ssets/Plugins/Editor/JetBrains*
+[Aa]ssets/AddressableAssetsData/*/*.bin*
+il2cppOutput/
+
+############################
+# IDEs and editors
+############################
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.pidb
+*.booproj
+
+# Rider / IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+############################
+# Package managers / build tools
+############################
+
+.gradle/
+
+############################
+# OS junk
+############################
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+############################
+# Crash reports / diagnostics
+############################
+
+crashlytics-build.properties
+sysinfo.txt
+
+############################
+# AI tooling
+############################
+
+# Claude Code
+.claude/**
+!.claude/settings.json
+.claude.json
+
+# GitHub Spec Kit
+.specify/**
+!.specify/
+!.specify/memory/
+!.specify/memory/constitution.md
+
+# Cursor
+.cursor/
+
+# Copilot / generic AI caches
+.copilot/
+.ai/
+.ai-cache/
+
+############################
+# Generated media (use Git LFS instead)
+############################
+
+*.wav
+*.mp3
+*.ogg
+*.mp4
+*.mov
+*.avi
+*.png
+*.jpg
+*.jpeg
+*.exr
+*.tga
+*.psd
+
+# Ignoring all asset packs for now, this wont work long term
+/[Aa]ssets/[Aa]sset Packs/**
+![Aa]ssets/[Aa]sset Packs/.gitkeep
+/[Aa]ssets/Mirror
+/[Aa]ssets/PlayFlowCloud
+/[Aa]ssets/TextMesh Pro/**
+/Builds/**

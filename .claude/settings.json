@@ -1,0 +1,62 @@
+{
+  "env": {
+    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1"
+  },
+  "permissions": {
+    "allow": [
+      "WebSearch",
+
+      "Bash(mkdir:*)",
+
+      "Bash(git add:*)",
+      "Bash(git fetch:*)",
+      "Bash(git checkout:*)",
+      "Bash(git branch:*)",
+      "Bash(git symbolic-ref:*)",
+      "Bash(git rev-parse:*)",
+
+      "Bash(npm create:*)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(npm run dev)",
+      "Bash(npm run build)",
+      "Bash(npm run lint)",
+      "Bash(npm test:*)",
+
+      "Bash(npx tsc:*)",
+
+      "Bash(python write_spec.py:*)"
+    ],
+    "deny": [
+      "Read(**/.env)",
+
+      "Read(**/*.png)",
+      "Read(**/*.jpg)",
+      "Read(**/*.jpeg)",
+      "Read(**/*.gif)",
+      "Read(**/*.mp4)",
+      "Read(**/*.mov)",
+      "Read(**/*.pdf)",
+
+      "Read(**/*.zip)",
+      "Read(**/*.tar)",
+      "Read(**/*.gz)",
+
+      "Read(**/*.sqlite)",
+      "Read(**/*.parquet)",
+
+      "Read(**/node_modules)",
+      "Read(**/.git)",
+      "Read(**/dist)",
+      "Read(**/build)",
+      "Read(**/.cache)",
+      "Read(**/coverage)",
+      "Read(**/out)",
+      "Read(**/.venv)"
+    ],
+    "ask": []
+  },
+  "enabledMcpjsonServers": ["mcp-unity"],
+  "enableAllProjectMcpServers": true
+}
