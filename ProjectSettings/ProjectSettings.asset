@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: MWorldsTech
+  productName: unity-social-vr
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -852,14 +852,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: MWorldsTech
+  metroPackageName: unity-social-vr
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: MWorldsTech
+  metroApplicationDescription: unity-social-vr
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -933,7 +933,7 @@ PlayerSettings:
   cloudProjectId: 75e66ac1-13ab-41c0-bbc7-4a4aa36f6b45
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: MWorldsTech
+  projectName: unity-social-vr
   organizationId: jon-borchardt
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
