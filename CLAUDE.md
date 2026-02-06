@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-MWorldsTech is a Unity 6 game project with integrated MCP (Model Context Protocol) support, enabling AI assistants to directly interact with Unity Editor. The architecture follows a two-tier design:
+unity-social-vr is a Unity 6.3 game project with integrated MCP (Model Context Protocol) support, enabling AI assistants to directly interact with Unity Editor. The architecture follows a two-tier design:
 
 **AI Assistant** ⇄ (stdio) ⇄ **Node.js MCP Server** ⇄ (WebSocket) ⇄ **Unity Editor** ⇄ **Game Objects/Scenes**
 

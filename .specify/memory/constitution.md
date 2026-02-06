@@ -1,4 +1,4 @@
-# MWorldsTech Constitution
+# unity-social-vr Constitution
 
 ## Core Principles
 
@@ -125,9 +125,9 @@ The best Unity projects are boring to read.
 
 ### XII. Readonly Folder
 The following folders are readonly. Do not edit them.
-`Assets/Asset Packs`
-`Assest/TextMesh Pro`
-`Packages`
+`Assets/Asset Packs/**`
+`Assets/TextMesh Pro/**`
+`Packages/**`
 
 ## Architecture Constraints
 

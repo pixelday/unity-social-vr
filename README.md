@@ -34,6 +34,7 @@ Assets
 - / Asset Packs
   - / Synty
     - / AnimationBaseLocomotion (https://syntystore.com/products/animation-base-locomotion)
+- / TextMesh Pro (will prompt to add itself, say yes)
 
 Packages
 
