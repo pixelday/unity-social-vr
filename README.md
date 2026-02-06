@@ -1,4 +1,7 @@
 # unity-social-vr
+
+https://github.com/pixelday/unity-social-vr
+
 An experimental social VR library for Unity, released as-is under the MIT License.
 
 ## Hardware and software requirements
@@ -29,45 +32,23 @@ In order to run, add the following asset packs from unity store or local into th
 Assets
 
 - / Asset Packs
-  - / Synty/AnimationBaseLocomotion (https://syntystore.com/products/animation-base-locomotion)
+  - / Synty
+    - / AnimationBaseLocomotion (https://syntystore.com/products/animation-base-locomotion)
 
 Packages
 
-- / TextMesh Pro (free package)
+- none so far
 
 After installing asset packs, run window/render/render pipeline converter -> 'built in to urp' -> 'material upgrade'
 
 ## How to run
-1. Open project in Unity 6 Editor
+1. Open project in Unity 6.3 Editor
 2. Start MCP server: **Tools > MCP Unity > Server Window** → "Start Server"
 3. Open scene: **Assets/Scenes/DesktopRig.unity**
 4. Press Play in Unity Editor
 
 ## Current Scene Layout
 - **DesktopRig.unity**: Desktop FPS player development/testing scene
-
-### Common Gotchas
-
-- Wrong build profile selected
-- Server scene included in client build
-- TLS accidentally enabled for Telepathy
-- Using 7777 directly instead of PlayFlow external port
-- Forgetting to copy the server IP from PlayFlow
-
----
-
-### Debugging
-
-- Check PlayFlow dashboard logs for server output
-- Confirm transport type matches PlayFlow port config
-- Ensure firewall is not blocking the connection
-
----
-
-### References
-
-Official PlayFlow Mirror guide:
-https://docs.playflowcloud.com/quickstart/mirror
 
 ---
 
